@@ -12,6 +12,7 @@
 
 .content {
 	@media #{$desktop} {
-		flex: 1;
+		flex-grow: 0;
+		flex-shrink: 1;
 	}
 }

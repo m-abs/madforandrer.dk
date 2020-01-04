@@ -1,17 +1,21 @@
 ---
-title: Home
+title: Forside
 ---
 <section class="posts">
 	{% for post in paginator.posts %}
 		<article class="post">
 			{% include post-heading.html post=post %}
-			<div class="image">
-				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+			{% if post.featured_image %}
+				<div class="image">
+					<img src="{{ post.featured_image }}" alt="{{ post.title }}" class="featured-image" />
+				</div>
+			{% endif %}
+
+			<div class="recipe-body">
+				{{ post.excerpt }}
+
+				<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Læs mere</a></p>
 			</div>
-
-			{{ post.excerpt }}
-
-			<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
 		</article>
 	{% endfor %}
 

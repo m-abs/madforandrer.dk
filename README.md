@@ -2,6 +2,8 @@
 
 Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
 
+Based on: [treat-jekyll-template](https://github.com/CloudCannon/treat-jekyll-template)
+
 ![Treat template screenshot](images/_screenshot.png)
 
 Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.

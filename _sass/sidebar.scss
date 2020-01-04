@@ -2,6 +2,7 @@
 	width: 250px;
 	padding: 70px 0 0 0;
 	margin: 0 auto;
+	flex-shrink: 0;
 
 	@media #{$desktop} {
 		margin: 0;
@@ -16,7 +17,7 @@
 		}
 		img {
 			width: 200px;
-			border-radius: 200px;
+			border-radius: 100px;
 			margin: 0 0 10px 0;
 		}
 	}

@@ -1,8 +1,6 @@
-- name: Home
+- name: Start
   link: /
-- name: About
+- name: Om
   link: /about/
-- name: Recipes
+- name: Opskrifer
   link: /recipes/
-- name: Contact
-  link: /contact/
