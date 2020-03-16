@@ -3,7 +3,7 @@ title: Blomkålssushi, uden ris
 categories:
   - Opskrifter
 date: 2016-01-31
-featured_image: /images/uploads/2016/01/Blomkålssushi-2016-01-27.jpg
+image: /images/uploads/2016/01/Blomkålssushi-2016-01-27.jpg
 recipe:
   servings: 2 maki ruller
   prep: 30 min

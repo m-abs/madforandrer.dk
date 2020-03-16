@@ -3,7 +3,7 @@ title: Vegetarisk chili
 categories:
   - Opskrifter
 date: 2016-06-04
-featured_image: /images/uploads/2016/06/Vegetarisk-chili.jpg
+image: /images/uploads/2016/06/Vegetarisk-chili.jpg
 recipe:
   servings: 4 portioner
   prep:

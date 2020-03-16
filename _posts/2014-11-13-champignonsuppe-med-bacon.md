@@ -3,7 +3,7 @@ title: Champignonsuppe med bacon
 categories:
   - Opskrifter
 date: 2014-11-13
-featured_image: /images/blank.png
+image: /images/blank.png
 recipe:
   servings:
   prep:

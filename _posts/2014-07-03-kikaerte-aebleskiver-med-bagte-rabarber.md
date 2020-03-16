@@ -3,7 +3,7 @@ title: Kikærte-æbleskiver med bagte rabarber
 categories:
   - Opskrifter
 date: 2014-07-03
-featured_image: /images/uploads/2014/07/IMG_20140713_162426-cropped.jpg
+image: /images/uploads/2014/07/IMG_20140713_162426-cropped.jpg
 recipe:
   servings:
   prep:

@@ -5,7 +5,7 @@ categories:
   - Frokost
   - Vegetar
 date: 2017-06-08
-featured_image: /images/uploads/2017/06/Blomkål-ærte-mos-med-kylling.jpg
+image: /images/uploads/2017/06/Blomkål-ærte-mos-med-kylling.jpg
 recipe:
   servings: 1 person
   ingredients_markdown: |-

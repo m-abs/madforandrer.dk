@@ -3,7 +3,7 @@ title: Tomatsuppe
 categories:
   - Opskrifter
 date: 2015-05-24
-featured_image: /images/blank.png
+image: /images/blank.png
 recipe:
   servings: 3-4 portioner
   prep:

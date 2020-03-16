@@ -20,6 +20,7 @@ social:
   links:
     - https://madforandrer.dk
 lang: da_DK
+
 # -----
 # Build
 
@@ -44,7 +45,7 @@ defaults:
         content:
           width: 1560
           height: 2000
-        featured_image:
+        image:
           width: 1560
           height: 2000
   -
@@ -58,6 +59,7 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
+      image: /siteicon.png
 
 plugins:
   - jekyll-sitemap

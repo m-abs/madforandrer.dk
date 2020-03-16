@@ -4,7 +4,7 @@ categories:
   - Opskrifter
   - Aftensmad
 date: 2013-09-21
-featured_image: /images/uploads/2013/09/IMG_20140626_sushi.png
+image: /images/uploads/2013/09/IMG_20140626_sushi.png
 recipe:
   servings:
   prep:

@@ -3,7 +3,7 @@ title: Broccoli pizzabund
 categories:
   - Opskrifter
 date: 2014-10-27
-featured_image: /images/uploads/2014/11/Broccoli-pizzabund-med-fyld1.png
+image: /images/uploads/2014/11/Broccoli-pizzabund-med-fyld1.png
 recipe:
   servings: 2 personer
   prep:

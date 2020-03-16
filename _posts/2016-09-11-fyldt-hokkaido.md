@@ -3,7 +3,7 @@ title: Fyldt hokkaido
 categories:
   - Opskrifter
 date: 2016-09-11
-featured_image: /images/uploads/2016/09/IMG_20160906_123128-cropped.png
+image: /images/uploads/2016/09/IMG_20160906_123128-cropped.png
 recipe:
   servings:
   prep:

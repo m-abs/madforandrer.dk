@@ -3,7 +3,7 @@ title: Rødspætteruller med blomkål, broccoli og squashsovs
 categories:
   - Opskrifter
 date: 2015-07-23
-featured_image: /images/uploads/2015/07/Rødspætte-med-squashsovs.jpg
+image: /images/uploads/2015/07/Rødspætte-med-squashsovs.jpg
 recipe:
   servings: 1 portion af ~470 kcal
   prep:

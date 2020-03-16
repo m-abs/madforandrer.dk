@@ -4,7 +4,7 @@ title: Risotto med kikærter
 categories:
   - Aftensmad
   - Vegetar
-featured_image: /images/uploads/2017/06/IMG_20170606_1852302.jpg
+image: /images/uploads/2017/06/IMG_20170606_1852302.jpg
 recipe:
   servings: 2 personer
   ingredients_markdown: |-

@@ -3,7 +3,7 @@ title: Kantareller med rodfrugtsmos og bacon
 categories:
   - Opskrifter
 date: 2015-05-24
-featured_image: /images/uploads/2015/05/Kantareller-med-rodfrugtsmos.png
+image: /images/uploads/2015/05/Kantareller-med-rodfrugtsmos.png
 recipe:
   servings:
   prep:

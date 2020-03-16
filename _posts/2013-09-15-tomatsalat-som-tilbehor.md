@@ -5,7 +5,7 @@ categories:
   - Tilbehør
   - Vegetar
 date: 2013-09-14
-featured_image: /images/blank.png
+image: /images/blank.png
 recipe:
   servings: 1 portion
   cook: 5 minutter

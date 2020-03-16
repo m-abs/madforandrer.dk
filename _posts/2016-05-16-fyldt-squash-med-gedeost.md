@@ -3,7 +3,7 @@ title: Fyldt squash med gedeost
 categories:
   - Opskrifter
 date: 2016-05-16
-featured_image: /images/uploads/2016/05/Fyldte-squash-med-gedeost.png
+image: /images/uploads/2016/05/Fyldte-squash-med-gedeost.png
 recipe:
   servings:
   prep:

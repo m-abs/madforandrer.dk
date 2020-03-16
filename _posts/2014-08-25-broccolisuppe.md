@@ -3,7 +3,7 @@ title: Broccolisuppe
 categories:
   - Opskrifter
 date: 2014-08-25
-featured_image: /images/blank.png
+image: /images/blank.png
 recipe:
   servings: 2 portioner
   prep:

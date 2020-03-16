@@ -3,7 +3,7 @@ title: Fennikel-æble salat &#8211; ~127 kcal/portion
 categories:
   - Opskrifter
 date: 2014-12-29
-featured_image: /images/uploads/2014/12/Fennikel-æble-salat.png
+image: /images/uploads/2014/12/Fennikel-æble-salat.png
 recipe:
   servings: 4 portioner og indholder ~127 kcal/portion
   prep:

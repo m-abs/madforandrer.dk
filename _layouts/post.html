@@ -3,9 +3,9 @@ layout: default
 ---
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
-	{% if page.featured_image %}
+	{% if page.image %}
 	<div class="image">
-		<img src="{{ page.featured_image }}" alt="{{ page.title }}"  class="featured-image" />
+		<img src="{{ page.image }}" alt="{{ page.title }}"  class="featured-image" />
 	</div>
 	{% endif %}
 

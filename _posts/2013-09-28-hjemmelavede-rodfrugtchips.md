@@ -3,7 +3,7 @@ title: Suchi-ris med blomkåg
 categories:
   - Opskrifter
 date: 2013-09-28
-featured_image: /images/blank.png
+image: /images/blank.png
 recipe:
   servings:
   prep:

@@ -3,7 +3,7 @@ title: Græskarsuppe med bacon
 categories:
   - Opskrifter
 date: 2014-10-05
-featured_image: /images/uploads/2014/10/Græskarsuppe-med-bacon.png
+image: /images/uploads/2014/10/Græskarsuppe-med-bacon.png
 recipe:
   servings:
   prep:

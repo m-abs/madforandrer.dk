@@ -5,9 +5,9 @@ title: Forside
 	{% for post in paginator.posts %}
 		<article class="post">
 			{% include post-heading.html post=post %}
-			{% if post.featured_image %}
+			{% if post.image %}
 				<div class="image">
-					<img src="{{ post.featured_image }}" alt="{{ post.title }}" class="featured-image" />
+					<img src="{{ post.image }}" alt="{{ post.title }}" class="featured-image" />
 				</div>
 			{% endif %}
 

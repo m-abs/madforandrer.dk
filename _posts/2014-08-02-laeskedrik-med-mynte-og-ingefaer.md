@@ -3,7 +3,7 @@ title: Læskedrik med mynte og ingefær
 categories:
   - Opskrifter
 date: 2014-08-02
-featured_image: /images/blank.png
+image: /images/blank.png
 recipe:
   servings:
   prep:
