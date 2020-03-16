@@ -2,7 +2,7 @@
 # Site
 
 title: Mad forandrer
-url: "https://www.madforandrer.dk//"
+url: "https://www.madforandrer.dk"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,16 +10,16 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Vejen til varigt vægttab går gennem lækker mad
 author:
   name: Morten Sjøgren
   #email: m_abs@mabs.dk
   twitter: m_abs
 social:
-  name: Treat Template
+  name: Mad forandrer
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
-
+    - https://madforandrer.dk
+lang: da_DK
 # -----
 # Build
 
