@@ -3,7 +3,7 @@ date: 2013-02-27
 title: Havre-æble-muffins
 categories:
   - Mortenmad
-image: /images/blank.png
+image: /images/food-placeholder.png
 recipe:
   servings: 6 muffins
   prep: 10 minutter

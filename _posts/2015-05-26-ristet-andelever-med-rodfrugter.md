@@ -3,7 +3,7 @@ title: Ristet andelever med rodfrugter
 categories:
   - Opskrifter
 date: 2015-05-26
-image: /images/blank.png
+image: /images/food-placeholder.png
 recipe:
   servings:
   prep:

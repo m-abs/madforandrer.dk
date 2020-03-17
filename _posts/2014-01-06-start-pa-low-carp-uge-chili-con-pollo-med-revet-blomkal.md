@@ -4,7 +4,7 @@ categories:
   - Opskrifter
   - LCHF
 date: 2014-01-06
-image: /images/blank.png
+image: /images/food-placeholder.png
 recipe:
   servings:
   prep:

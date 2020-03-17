@@ -3,7 +3,7 @@ title: Hokkaido salat
 categories:
   - Opskrifter
 date: 2013-09-15
-image: /images/blank.png
+image: /images/food-placeholder.png
 recipe:
   servings:
   prep:

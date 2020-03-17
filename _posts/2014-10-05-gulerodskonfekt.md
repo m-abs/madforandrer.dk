@@ -3,7 +3,7 @@ title: Gulerodskonfekt
 categories:
   - Opskrifter
 date: 2014-10-05
-image: /images/blank.png
+image: /images/food-placeholder.png
 recipe:
   servings:
   prep:

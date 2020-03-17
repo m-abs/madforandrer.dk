@@ -3,7 +3,7 @@ title: Ruggrød med æble-skyr
 categories:
   - Opskrifter
 date: 2015-06-24
-image: /images/blank.png
+image: /images/food-placeholder.png
 recipe:
   servings:
   prep:

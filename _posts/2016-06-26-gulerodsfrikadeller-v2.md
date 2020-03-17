@@ -3,7 +3,7 @@ title: Gulerodsfrikadeller v2
 categories:
   - Opskrifter
 date: 2016-06-26
-image: /images/blank.png
+image: /images/food-placeholder.png
 recipe:
   servings:
   prep:
