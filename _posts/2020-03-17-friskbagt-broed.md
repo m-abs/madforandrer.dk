@@ -2,7 +2,7 @@
 title: Friskbagt brød til morgenmad og frokost
 categories:
   - Opskrifter
-date: 2020-03-17 20:00:00
+date: 2020-03-17 19:00:00
 image: /images/uploads/2020/03/2020-03-17-friskbagt-broed-1080x1009.png
 recipe:
   servings: 12-13 boller
