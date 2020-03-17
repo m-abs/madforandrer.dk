@@ -16,13 +16,13 @@ layout: default
 	{% if page.recipe.servings or page.recipe.prep or page.recipe.cook %}
 	<ul id="recipe" class="recipe-overview">
 		{% if page.recipe.servings %}
-			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+			<li title="Portioner">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		{% endif %}
 		{% if page.recipe.prep %}
-			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+			<li title="Forberedelsestid">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
 		{% endif %}
 		{% if page.recipe.cook %}
-			<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+			<li title="Tilberedningstid">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
 		{% endif %}
 	</ul>
 	{% endif %}

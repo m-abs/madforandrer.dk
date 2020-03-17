@@ -12,7 +12,7 @@ Jeg ser ofte, i forskellige slankegrupper jeg følger, folk der bliver meget fru
 
 Min erfaring i forbindelse med mit vægttab har været, at vægten nemt svinger med 1-2% uden at det gør det store.
 
-Der er en vis usikkerhed ved at veje sig med en almindelig badevægt, de er ofte let påvirkelige efter, hvor de står på gulvet, hvis gulvet ikke er fuldstændig jævnt. Min gamle vægt skulle stå præcis samme sted, ellers kunne resultatet variere med 3 kilo inden for nogle få minutter.
+Der er en vis usikkerhed ved at veje sig med en almindelig badevægt, de er ofte let påvirkelige efter, hvor de står på gulvet, hvis gulvet ikke er fuldstændig jævnt.Min gamle vægt skulle stå præcis samme sted, ellers kunne resultatet variere med 3 kilo inden for nogle få minutter.
 
 Det har hjulpet mig, at sætte sådan en vægtforøgelse lidt i perspektiv.
 
