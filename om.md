@@ -1,5 +1,8 @@
 ---
 title: Om
+redirect_from:
+  - /about
+  - /about/index.html
 ---
 
 # OM

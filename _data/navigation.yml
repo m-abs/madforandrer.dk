@@ -1,6 +1,6 @@
 - name: Start
   link: /
 - name: Om
-  link: /about/
-- name: Opskrifer
-  link: /recipes/
+  link: /om/
+- name: Opskrifter
+  link: /opskrifter/
