@@ -16,7 +16,8 @@ recipe:
     - 40 g svesker i små stykker.
     - Sødemiddel
   directions_markdown: |-
-    - Rør æg og mayonnaisen sammen. Riv squash og bland med æggemassen.
+    - Rør æg og mayonnaisen sammen.
+    - Riv squash og bland med æggemassen.
     - Bland mel, skummeltmælkspulver, kanel, bagepulver sammen og vend det i dejen sammen med svesker. Smag til med sødemiddel.
     - Hæld i en form og bag ved 170 grader i 40 minutter.
     - Tag kagen ud og vend den. Lad det stå og afkøle før den skæres i skiver.

@@ -3,11 +3,12 @@ title: Lad ikke udsving i vægten tage motivationen fra dig
 date: 2016-01-22
 categories:
   - Artikler
+image: /images/food-placeholder.png
 redirect_from:
   - /2016/01/22/lad-ikke-udsving-i-vaegten-tage-motivationen-fra-dig
 ---
 
-Jeg ser meget ofte, i forskellige slankegrupper jeg følger, at folk der bliver meget frustreret over, de har taget lidt på i perioder.
+Jeg ser ofte, i forskellige slankegrupper jeg følger, folk der bliver meget frustreret over, de har taget lidt på i perioder.
 
 Min erfaring i forbindelse med mit vægttab har været, at vægten nemt svinger med 1-2% uden at det gør det store.
 

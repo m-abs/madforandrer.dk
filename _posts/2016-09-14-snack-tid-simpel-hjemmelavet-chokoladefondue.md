@@ -1,5 +1,5 @@
 ---
-title: Snack tid Simpel hjemmelavet chokoladefondue
+title: Snack tid simpel hjemmelavet chokoladefondue
 categories:
   - Opskrifter
 date: 2016-09-14
