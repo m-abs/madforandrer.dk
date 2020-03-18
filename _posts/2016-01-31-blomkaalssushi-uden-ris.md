@@ -46,6 +46,6 @@ redirect_from:
 
 Jeg er meget stolt af denne lille opdagelse fra min side. Jeg har fundet ud af, hvordan jeg kan lave "sushi" helt uden brug af ris.
 
-Dette er et skridt videre fra [Sushi-ris med blomkål](/opskrifter/2013/09/21/sushi-ris-med-blomkal/), hvor man blander blomkål sammen med risene, for at spise færre ris.
+Dette er et skridt videre fra [Sushi-ris med blomkål](/sushi/2013/09/21/sushi-ris-med-blomkal/), hvor man blander blomkål sammen med risene, for at spise færre ris.
 
 Retten er velegnet til frokost og kan laves dagen før.

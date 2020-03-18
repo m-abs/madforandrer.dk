@@ -1,8 +1,7 @@
 ---
 title: Sushi-ris med blomkål
 categories:
-  - Opskrifter
-  - Aftensmad
+  - sushi
 date: 2013-09-21
 image: /images/uploads/2013/09/IMG_20140626_sushi.png
 recipe:
@@ -15,10 +14,10 @@ recipe:
     - 2tsk salt
     - ~0.6dl sukker (eller sødemiddel med samme sødeeffekt)
     - 10cm konbu tang
-    - 1stk blomkålshoved.
+    - 1 helt blomkålshoved.
     - Koldt vand
 
-    ### Ydstyr:
+    ### Udstyr:
     - Målebære
     - Si
     - Lille kasserolle
@@ -28,10 +27,10 @@ recipe:
   directions_markdown: |-
     - Skyl risene i sien under koldt vand og sorter dårlige ris fra.
     - Læg risene i blå i den store kasserolle med ca. 2½ cm vand over risene, lad dem stå i 30min.
-    - Skyl risene igen indtil vandet er klart.
+    - Skyl risene igen, gentag indtil vandet er klart.
     - Kom risene tilbage i den store kasserolle med ca. 5,25dl vand.
     - Kog op på høj varme med låg på, når vandet koger skru ned på laveste.
-    - Det skal koge i 20 min. Hvis der stadig er vand ved efter 20 min, lad det koge lidt længere men pas på, de brænder nemt på.
+    - Det skal koge i 20 min. Hvis der stadig er vand tilbage efter 20 min, lad det koge lidt længere men pas på, de brænder nemt på.
 
     ### Mens risene koger:
     ------------------
@@ -52,6 +51,7 @@ recipe:
     - Lav dine makiruller med det indhold som du vil have i dem.
 redirect_from:
   - /2013/09/21/sushi-ris-med-blomkal
+  - /opskrifter/aftensmad/2013/09/21/sushi-ris-med-blomkal
 ---
 
 Da jeg forsøger at følge DDVs kostplan, må jeg ikke spise ret mange ris.

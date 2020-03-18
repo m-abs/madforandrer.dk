@@ -115,7 +115,7 @@ redirect_from:
   - /opskrifter/2014/12/27/hjemmelavet-sushi-makiruller-312-kcalrulle
 ---
 
-Jeg har tidligere lagt en opskrift på op [sushi-ris med blomkål](/opskrifter/aftensmad/2013/09/21/sushi-ris-med-blomkal/)
+Jeg har tidligere lagt en opskrift på op [sushi-ris med blomkål](/sushi/2013/09/21/sushi-ris-med-blomkal/)
 
 I denne opskrift vil jeg vise, hvordan jeg laver to slags makiruller af en traditionel ris-blanding.
 
