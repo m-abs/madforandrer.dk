@@ -2,7 +2,7 @@
 date: 2013-02-27
 title: Havre-æble-muffins
 categories:
-  - Mortenmad
+  - morgenmad
 image: /images/food-placeholder.png
 recipe:
   servings: 6 muffins
@@ -24,6 +24,7 @@ recipe:
     4. Bag i varmluft ovn ved 200 grader i 20 min.
 redirect_from:
   - /2013/02/27/havre-aeble-muffins
+  - /mortenmad/2013/02/27/havre-aeble-muffins
 ---
 
 En lille hurtig opskrift på sunde muffins.

@@ -1,7 +1,7 @@
 ---
 title: Hjemmelavet snackbar &#8211; første forsøg
 categories:
-  - Opskrifter
+  - snacks
 date: 2016-04-10
 image: /images/uploads/2016/04/Energibar-IMG_20160410_193052.jpg
 recipe:
@@ -34,6 +34,7 @@ recipe:
     - Lad derefter det køle af og klip det derefter ud i ca. 50g stykker.
 redirect_from:
   - /2016/04/10/hjemmelavet-snackbar-foerste-forsoeg
+  - /opskrifter/2016/04/10/hjemmelavet-snackbar-foerste-forsoeg
 ---
 
 Jeg spiser desværre lidt for mange energi-/proteinbarer, når jeg bliver sulten og/eller er ved at gå sukkerkold.

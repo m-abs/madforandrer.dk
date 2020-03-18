@@ -1,7 +1,7 @@
 ---
 title: Kantareller med rodfrugtsmos og bacon
 categories:
-  - Opskrifter
+  - aftensmad
 date: 2015-05-24
 image: /images/uploads/2015/05/Kantareller-med-rodfrugtsmos.png
 recipe:
@@ -31,6 +31,7 @@ recipe:
     <em>Kom evt. 10g olivenolie i mosen, det koster 90kcal men giver en rigtig god smag og hjælper på konsistensen. </em>
 redirect_from:
   - /2015/05/24/kantareller-med-rodfrugtsmos-og-bacon
+  - /opskrifter/2015/05/24/kantareller-med-rodfrugtsmos-og-bacon
 ---
 
 Jeg prøvede for noget tid siden en ret med kantareller og en rodfrugtsmos, dette er mit eget forsøg på at lave retten.

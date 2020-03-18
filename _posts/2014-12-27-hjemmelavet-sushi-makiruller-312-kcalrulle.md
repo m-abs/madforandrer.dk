@@ -1,7 +1,7 @@
 ---
 title: Hjemmelavet (sushi) makiruller &#8211; 312 kcal/rulle
 categories:
-  - Opskrifter
+  - sushi
 date: 2014-12-27
 image: /images/uploads/2014/12/Sushi.png
 recipe:
@@ -112,6 +112,7 @@ recipe:
     Jeg har regnet den samlede kcal pr. rulle til at være 312 kcal. Så må du selv vurdere, hvor sundt du synes det er 😉
 redirect_from:
   - /2014/12/27/hjemmelavet-sushi-makiruller-312-kcalrulle
+  - /opskrifter/2014/12/27/hjemmelavet-sushi-makiruller-312-kcalrulle
 ---
 
 Jeg har tidligere lagt en opskrift på op [sushi-ris med blomkål](/opskrifter/aftensmad/2013/09/21/sushi-ris-med-blomkal/)
@@ -120,4 +121,4 @@ I denne opskrift vil jeg vise, hvordan jeg laver to slags makiruller af en tradi
 
 De to slags makiruller har næsten samme indhold; Chili ostecreme, agurk, mango og avokado. Den eneste forskel mellem de to slags er den fisk der skal i.
 
-    Bemærk: Sushi er ikke hurtigt at lave, jeg har efterhånden prøvet det mange gang, og det tager mig ca. 2 timer at lave det.
+    **Bemærk:** Sushi er ikke hurtigt at lave, jeg har efterhånden prøvet det mange gang, og det tager mig ca. 2 timer at lave det.

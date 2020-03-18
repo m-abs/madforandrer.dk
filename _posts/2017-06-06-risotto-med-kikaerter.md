@@ -2,8 +2,7 @@
 date: 2017-06-06
 title: Risotto med kikærter
 categories:
-  - Aftensmad
-  - Vegetar
+  - vegetar
 image: /images/uploads/2017/06/IMG_20170606_1852302.jpg
 recipe:
   servings: 2 personer
@@ -31,6 +30,7 @@ recipe:
     11. Smag til med salt.
 redirect_from:
   - /2017/06/06/risotto-med-kikaerter
+  - /aftensmad/vegetar/2017/06/06/risotto-med-kikaerter
 ---
 
 Vegetarisk ret til to personer.

@@ -1,7 +1,7 @@
 ---
 title: Vegetarisk chili
 categories:
-  - Opskrifter
+  - vegatar
 date: 2016-06-04
 image: /images/uploads/2016/06/Vegetarisk-chili.jpg
 recipe:
@@ -31,6 +31,7 @@ recipe:
     - Smag til med chili og krydderier efter smag
 redirect_from:
   - /2016/05/16/fyldt-squash-med-gedeost
+  - /opskrifter/2016/06/04/vegetarisk-chili
 ---
 
 Nem og lækker vegetarisk chili, som kan fryses ned og egner sig lige godt til både aftensmad og frokost.

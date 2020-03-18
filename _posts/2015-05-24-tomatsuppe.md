@@ -1,7 +1,7 @@
 ---
 title: Tomatsuppe
 categories:
-  - Opskrifter
+  - suppe
 date: 2015-05-24
 image: /images/food-placeholder.png
 recipe:
@@ -27,6 +27,7 @@ recipe:
     - Server suppen, evt. med nogle salattern eller kødboller.
 redirect_from:
   - /2015/05/24/tomatsuppe
+  - /opskrifter/2015/05/24/tomatsuppe
 ---
 
 Jeg har altid elsket tomatsuppe, som barn kunne jeg spise mig dårlig i det og gjorde det mere end én gang.

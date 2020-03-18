@@ -1,7 +1,7 @@
 ---
 title: Broccoli pizzabund
 categories:
-  - Opskrifter
+  - pizza
 date: 2014-10-27
 image: /images/uploads/2014/11/Broccoli-pizzabund-med-fyld1.png
 recipe:
@@ -39,4 +39,5 @@ recipe:
     - Fordel tomatsovsen på bunden, læg købet ovenpå, dæk det med osten og klip den stegte seranorskinke over.
 redirect_from:
   - /2014/10/27/broccoli-pizzabund
+  - /opskrifter/2014/10/27/broccoli-pizzabund
 ---

@@ -1,7 +1,7 @@
 ---
 title: Falafler med ærter og mynte
 categories:
-  - Opskrifter
+  - vegatar
 date: 2014-10-25
 image: /images/food-placeholder.png
 recipe:
@@ -30,6 +30,7 @@ recipe:
     - Steg dem ved middelvarme på en pande med lidt oliven olie
 redirect_from:
   - /2014/10/25/falafler-med-aerter-og-mynte
+  - /opskrifter/2014/10/25/falafler-med-aerter-og-mynte
 ---
 
 Min egen version af hjemmelavede falafler til de kødfri dage.

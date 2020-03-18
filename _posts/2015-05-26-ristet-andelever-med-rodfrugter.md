@@ -1,7 +1,7 @@
 ---
 title: Ristet andelever med rodfrugter
 categories:
-  - Opskrifter
+  - and
 date: 2015-05-26
 image: /images/food-placeholder.png
 recipe:
@@ -35,4 +35,5 @@ recipe:
     **Tip:** Andelever sælges normalt i 500g pakker. Heldigvis kan retten fryses ned, så lav fire gange portionen og frys de tre af dem ned til en anden dag.
 redirect_from:
   - /2015/05/26/ristet-andelever-med-rodfrugter
+  - /opskrifter/2015/05/26/ristet-andelever-med-rodfrugter
 ---

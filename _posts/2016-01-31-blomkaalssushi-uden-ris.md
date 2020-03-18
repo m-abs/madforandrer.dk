@@ -1,7 +1,7 @@
 ---
 title: Blomkålssushi, uden ris
 categories:
-  - Opskrifter
+  - sushi
 date: 2016-01-31
 image: /images/uploads/2016/01/Blomkålssushi-2016-01-27.jpg
 recipe:
@@ -41,6 +41,7 @@ recipe:
 
 redirect_from:
   - /2016/01/31/blomkaalssushi-uden-ris
+  - /opskrifter/2016/01/31/blomkaalssushi-uden-ris
 ---
 
 Jeg er meget stolt af denne lille opdagelse fra min side. Jeg har fundet ud af, hvordan jeg kan lave "sushi" helt uden brug af ris.

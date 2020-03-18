@@ -1,7 +1,7 @@
 ---
 title: Gulerodsfrikadeller
 categories:
-  - Opskrifter
+  - vegatar
 date: 2015-05-24
 image: /images/food-placeholder.png
 recipe:
@@ -29,4 +29,5 @@ recipe:
     Serveres med ristet rugbrød og et par rødbeder.
 redirect_from:
   - /2015/05/24/gulerodsfrikadeller
+  - /opskrifter/2015/05/24/gulerodsfrikadeller
 ---

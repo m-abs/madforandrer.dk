@@ -1,7 +1,7 @@
 ---
 title: Ruggrød med æble-skyr
 categories:
-  - Opskrifter
+  - morgenmad
 date: 2015-06-24
 image: /images/food-placeholder.png
 recipe:
@@ -24,6 +24,7 @@ recipe:
     - Kom grøden op i en anden skål, læg plantemargarinen i midten og strø kanelblandingen over.
 redirect_from:
   - /2015/06/24/ruggroed-med-aeble-skyr
+  - /opskrifter/2015/06/24/ruggroed-med-aeble-skyr
 ---
 
 DDV-venlig morgenmad som tager ca. ti minutter at lave.

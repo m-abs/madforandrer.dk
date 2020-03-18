@@ -1,7 +1,7 @@
 ---
 title: Champignonsuppe med bacon
 categories:
-  - Opskrifter
+  - suppe
 date: 2014-11-13
 image: /images/food-placeholder.png
 recipe:
@@ -27,6 +27,7 @@ recipe:
     - Kog på laveste varme i ca. 10 minutter.
 redirect_from:
   - /2014/11/13/champignonsuppe-med-bacon
+  - /opskrifter/2014/11/13/champignonsuppe-med-bacon
 ---
 
 Dette er mit første forsøg på en champignonsuppe.

@@ -1,13 +1,13 @@
 ---
 title: Fyldt hokkaido
 categories:
-  - Opskrifter
+  - I ovnen
 date: 2016-09-11
 image: /images/uploads/2016/09/IMG_20160906_123128-cropped.png
 recipe:
-  servings:
+  servings: 1 portion
   prep:
-  cook:
+  cook: 30-35 minutter
   ingredients_markdown: |-
     - 1 halvt lille hokkaido
     - 50g Camenbert ost (45+)
@@ -24,6 +24,7 @@ recipe:
 
 redirect_from:
   - /2016/09/11/fyldt-hokkaido
+  - /opskrifter/2016/09/11/fyldt-hokkaido
 ---
 
 Jeg elsker hokkaido græskar og da det kun er sæson for dem fra august til oktober, er det med at udnytte dem mens tid er.

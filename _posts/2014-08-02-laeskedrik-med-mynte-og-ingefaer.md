@@ -1,7 +1,7 @@
 ---
 title: Læskedrik med mynte og ingefær
 categories:
-  - Opskrifter
+  - drikke
 date: 2014-08-02
 image: /images/food-placeholder.png
 recipe:
@@ -24,6 +24,7 @@ recipe:
     Smag evt. til med lidt sødemiddel.
 redirect_from:
   - /2014/08/02/laeskedrik-med-mynte-og-ingefaer
+  - /opskrifter/2014/08/02/laeskedrik-med-mynte-og-ingefaer
 ---
 
 Lækker nem læskedrik, der kan bruges som alternativ til at købe cola eller iste.

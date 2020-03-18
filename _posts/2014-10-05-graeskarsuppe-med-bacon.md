@@ -1,7 +1,7 @@
 ---
 title: Græskarsuppe med bacon
 categories:
-  - Opskrifter
+  - suppe
 date: 2014-10-05
 image: /images/uploads/2014/10/Græskarsuppe-med-bacon.png
 recipe:
@@ -28,6 +28,7 @@ recipe:
     - Lad det koge videre i nogle minutter
 redirect_from:
   - /2014/10/05/graeskarsuppe-med-bacon
+  - /opskrifter/2014/10/05/graeskarsuppe-med-bacon
 ---
 
 Lækker græskarsuppe med bacon, der er velegnet til frokost. Opskriften giver 4 portioner af ca. 390 kcal.

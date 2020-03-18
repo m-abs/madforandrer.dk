@@ -1,7 +1,7 @@
 ---
 title: Rosenkål med bacon og broccolli
 categories:
-  - Opskrifter
+  - rosenkål
 date: 2016-03-14
 image: /images/uploads/2016/03/Rosenkål-med-broccoli-og-bacon.png
 recipe:
@@ -28,6 +28,7 @@ recipe:
     - Tag det ud af ovnen og nyd retten 🙂
 redirect_from:
   - /2016/03/14/rosenkaal-med-bacon-og-broccolli
+  - /opskrifter/2016/03/14/rosenkaal-med-bacon-og-broccolli
 ---
 
 Rosenkål er normalt ikke noget jeg har høje tanker op, men denne opskrift er meget god.

@@ -1,9 +1,7 @@
 ---
 title: Kylling med blomkål/ærtemos
 categories:
-  - Aftensmad
-  - Frokost
-  - Vegetar
+  - kylling
 date: 2017-06-08
 image: /images/uploads/2017/06/Blomkål-ærte-mos-med-kylling.jpg
 recipe:
@@ -37,6 +35,7 @@ recipe:
     13. Server og nyd retten.
 redirect_from:
   - /2017/06/08/kylling-med-blomkaalaertemos
+  - /aftensmad/frokost/vegetar/2017/06/08/kylling-med-blomkaalaertemos
 ---
 
 En lækker lille farverig sommer ret herfra 🙂

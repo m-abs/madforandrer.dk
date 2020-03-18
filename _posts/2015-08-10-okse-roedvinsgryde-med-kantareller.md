@@ -1,7 +1,7 @@
 ---
 title: Okse-rødvinsgryde med kantareller
 categories:
-  - Opskrifter
+  - gryderet
 date: 2015-08-10
 image: /images/uploads/2015/08/Oksetern-i-rødvins-sovs.jpg
 recipe:
@@ -31,6 +31,7 @@ recipe:
     - Smag til med salt og peber
 redirect_from:
   - /2015/08/10/okse-roedvinsgryde-med-kantareller
+  - /opskrifter/2015/08/10/okse-roedvinsgryde-med-kantareller
 ---
 
 Dette er en lækker gryderet som jeg fandt på, en dag jeg havde lyst til noget med kantareller og rødvins sovs.

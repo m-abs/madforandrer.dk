@@ -1,7 +1,7 @@
 ---
-title: Suchi-ris med blomkåg
+title: Hjemmelavede rodfrugtchips
 categories:
-  - Opskrifter
+  - snacks
 date: 2013-09-28
 image: /images/food-placeholder.png
 recipe:
@@ -31,6 +31,7 @@ recipe:
     - Bag dem til de er sprøde, ca. 10 min, men hold godt øje med dem, de bliver nemt brændte.
 redirect_from:
   - /2013/09/28/hjemmelavede-rodfrugtchips
+  - /opskrifter/2013/09/28/hjemmelavede-rodfrugtchips
 ---
 
 Jeg arbejder stadig på at få dem perfekte, men dette er hvad jeg er kommet frem til indtil videre:

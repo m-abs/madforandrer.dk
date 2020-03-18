@@ -1,7 +1,6 @@
 ---
 title: Start på Low Carp uge &#8211; Chili con pollo med revet blomkål.
 categories:
-  - Opskrifter
   - LCHF
 date: 2014-01-06
 image: /images/food-placeholder.png
@@ -44,6 +43,7 @@ recipe:
     - Sig vandet fra blomkålen.
 redirect_from:
   - /2014/01/06/start-pa-low-carp-uge-chili-con-pollo-med-revet-blomkal
+  - /opskrifter/lchf/2014/01/06/start-pa-low-carp-uge-chili-con-pollo-med-revet-blomkal
 ---
 
 Jeg har sat ambitiøse mål for at nå under 100 kg til April, så jeg er startet på en low carp uge her i uge 2/2014.

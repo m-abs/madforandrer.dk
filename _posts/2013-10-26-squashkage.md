@@ -1,8 +1,7 @@
 ---
 title: Squashkage
 categories:
-  - Opskrifter
-  - Dessert
+  - dessert
 date: 2013-10-26
 recipe:
   ingredients_markdown: |-
@@ -23,4 +22,5 @@ recipe:
     - Tag kagen ud og vend den. Lad det stå og afkøle før den skæres i skiver.
 redirect_from:
   - /2013/10/26/squashkage
+  - /opskrifter/dessert/2013/10/26/squashkage
 ---

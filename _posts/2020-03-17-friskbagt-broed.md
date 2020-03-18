@@ -1,7 +1,7 @@
 ---
 title: Friskbagt brød til morgenmad og frokost
 categories:
-  - Opskrifter
+  - brød
 date: 2020-03-17 19:00:00
 image: /images/uploads/2020/03/2020-03-17-friskbagt-broed-1080x1009.png
 recipe:
@@ -34,7 +34,8 @@ recipe:
     **Hvis de skal bages med samme**
     - Hæves et lunt sted i 40 minutter.
     - Bag dem i 10-12 minutter ved 200° varmluftsovn.
-
+redirect_from:
+  - /opskrifter/2020/03/17/friskbagt-broed/
 ---
 
 Jeg er som så mange andre offentligt ansatte, sendt på hjemmearbejde pga. COVID-19. Derfor har det været nødvendigt for mig, at gøre en ekstra indsats for at passe kosten, så jeg ikke falder for meget i.

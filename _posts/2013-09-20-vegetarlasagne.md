@@ -1,9 +1,7 @@
 ---
 title: Vegetarlasagne
 categories:
-  - Opskrifter
-  - Vegetar
-  - Lasagne
+  - vegetar
 date: 2013-09-20
 image: /images/uploads/2013/09/Grønsagslasagne.png
 recipe:
@@ -32,4 +30,5 @@ recipe:
     - Bag det i ovnen ved 200grader i ~35min
 redirect_from:
   - /2013/09/20/vegetarlasagne
+  - /opskrifter/vegetar/lasagne/2013/09/20/vegetarlasagne
 ---

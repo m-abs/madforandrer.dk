@@ -1,9 +1,7 @@
 ---
 title: Tomatsalat som tilbehør
 categories:
-  - Opskrifter
-  - Tilbehør
-  - Vegetar
+  - salat
 date: 2013-09-14
 image: /images/food-placeholder.png
 recipe:
@@ -22,6 +20,7 @@ recipe:
     4. Krydder med salt og peber.
 redirect_from:
   - /2013/09/15/tomatsalat-som-tilbehor
+  - /opskrifter/tilbeh%C3%B8r/vegetar/2013/09/14/tomatsalat-som-tilbehor/
 ---
 
 En hurtig opskrift som jeg tit bruger som hurtig tilbehør til min frokost.

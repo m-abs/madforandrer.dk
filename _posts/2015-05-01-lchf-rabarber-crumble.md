@@ -1,7 +1,7 @@
 ---
 title: LCHF &#8211; Rabarber crumble
 categories:
-  - Opskrifter
+  - LCHF
 date: 2015-05-01
 image: /images/food-placeholder.png
 recipe:
@@ -28,6 +28,7 @@ recipe:
     - Server med resten af cream fraichen.
 redirect_from:
   - /2015/05/01/lchf-rabarber-crumble
+  - /opskrifter/2015/05/01/lchf-rabarber-crumble
 ---
 
 Nu hvor vi er nået årstiden hvor man kan købe rabarber i supermarkedet, så fik jeg lyst til en rabarber crumble.

@@ -1,7 +1,7 @@
 ---
 title: Fennikel-æble salat &#8211; ~127 kcal/portion
 categories:
-  - Opskrifter
+  - salat
 date: 2014-12-29
 image: /images/uploads/2014/12/Fennikel-æble-salat.png
 recipe:
@@ -23,6 +23,7 @@ recipe:
     - Skær æbler og fennikel i små stykker og vend det med resten.
 redirect_from:
   - /2014/12/29/fennikel-aeble-salat
+  - /opskrifter/2014/12/29/fennikel-aeble-salat
 ---
 
 Hurtig og lækker salat med fennikel og æbler.

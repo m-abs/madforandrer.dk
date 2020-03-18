@@ -1,11 +1,11 @@
 ---
 title: Gulerodskonfekt
 categories:
-  - Opskrifter
+  - snacks
 date: 2014-10-05
 image: /images/food-placeholder.png
 recipe:
-  servings:
+  servings: 16 små snacks, cirka ~20 kcal/stk
   prep:
   cook:
   ingredients_markdown: |-
@@ -26,6 +26,7 @@ recipe:
     - Skær ud i 16 dele
 redirect_from:
   - /2014/10/05/gulerodskonfekt
+  - /opskrifter/2014/10/05/gulerodskonfekt
 ---
 
-Gulerodskonfekt er en lækker lille snack, som du bør give en chance. Opskriften giver 16 små snacks med ~20 kcal pr. stk.
+Gulerodskonfekt er en lækker lille snack, som du bør give en chance.

@@ -1,7 +1,7 @@
 ---
 title: Kikærte-tomat fyldt spaghetti-squash
 categories:
-  - Opskrifter
+  - vegetar
 date: 2016-10-29
 image: /images/uploads/2016/10/Squash-speghetti-med-tomat-kikærte-fyld.jpg
 recipe:
@@ -29,6 +29,7 @@ recipe:
     - Tag retten ud af ovnen. Tag fyldet forsigtigt ud med en gaffel og brug gaflen til at strimle squashens indmad til spaghetti-lignende strimler
 redirect_from:
   - /2016/10/29/kikaerte-tomat-fyldt-spaghetti-squash
+  - /opskrifter/2016/10/29/kikaerte-tomat-fyldt-spaghetti-squash
 ---
 
 Opskrift inspireret af <a href="https://www.buzzfeed.com/robertbroadfoot/chicken-and-tomato-spaghetti-squash" target="_blank">link</a>.

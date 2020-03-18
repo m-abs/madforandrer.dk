@@ -1,7 +1,7 @@
 ---
 title: Hokkaido salat
 categories:
-  - Opskrifter
+  - salat
 date: 2013-09-15
 image: /images/food-placeholder.png
 recipe:
@@ -25,6 +25,7 @@ recipe:
 redirect_from:
   - /2013/09/15/hokkaidosalat
   - /2013/09/15/hokaidosalat
+  - /opskrifter/2013/09/15/hokkaidosalat
 ---
 
 I stedet for kold kartoffelsalat, så kan man lave en kold hokkaido salat.

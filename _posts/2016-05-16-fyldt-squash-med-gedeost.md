@@ -1,7 +1,7 @@
 ---
 title: Fyldt squash med gedeost
 categories:
-  - Opskrifter
+  - vegetar
 date: 2016-05-16
 image: /images/uploads/2016/05/Fyldte-squash-med-gedeost.png
 recipe:
@@ -28,6 +28,7 @@ recipe:
     - Tag squashen ud af ovnen og server den med brødtern og resten af cherrytomaterne
 redirect_from:
   - /2016/05/16/fyldt-squash-med-gedeost
+  - /opskrifter/2016/05/16/fyldt-squash-med-gedeost
 ---
 
 En dejlig og sund ret til frokost her 2. pinsedag.

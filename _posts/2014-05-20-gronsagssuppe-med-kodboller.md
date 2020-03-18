@@ -1,7 +1,7 @@
 ---
 title: Grønsagssuppe med kødboller
 categories:
-  - Opskrifter
+  - Suppe
 date: 2014-05-20
 image: /images/uploads/2014/01/IMG_20140210_211236.jpg
 recipe:
@@ -42,4 +42,5 @@ recipe:
     Kom kødbollerne i suppen og lad det koge nogle minutter ved lav varme.
 redirect_from:
   - /2014/05/20/gronsagssuppe-med-kodboller
+  - /opskrifter/2014/05/20/gronsagssuppe-med-kodboller
 ---

@@ -1,7 +1,7 @@
 ---
 title: Lakselasagne uden pasta
 categories:
-  - Opskrifter
+  - fisk
 date: 2015-08-11
 image: /images/food-placeholder.png
 recipe:
@@ -59,6 +59,7 @@ recipe:
     - Bages ved 200 grader i 30 minutter
 redirect_from:
   - /2015/08/11/lakselasagne-uden-pasta
+  - /opskrifter/2015/08/11/lakselasagne-uden-pasta
 ---
 
 Dette er en lakselasagne, inspireret af min <a href="/2013/09/20/vegetarlasagne/">vegetarlasagne</a> med LCHF venlige lasagneplader.

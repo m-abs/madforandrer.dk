@@ -1,11 +1,11 @@
 ---
 title: Andebryst i appelsin, ingefær og lakrids med speltkerne salat
 categories:
-  - Opskrifter
-date: 204-09-01
+  - and
+date: 2014-09-01
 image: /images/food-placeholder.png
 recipe:
-  servings:
+  servings: 1 portion
   prep:
   cook:
   ingredients_markdown: |-
@@ -36,4 +36,5 @@ recipe:
     - Vend speltkernerne i blandingen.
 redirect_from:
   - /2014/09/01/andebryst-med-speltkerne-salat
+  - /opskrifter/0204/09/01/andebryst-med-speltkerne-salat
 ---

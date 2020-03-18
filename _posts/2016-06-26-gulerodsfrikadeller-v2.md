@@ -1,7 +1,7 @@
 ---
 title: Gulerodsfrikadeller v2
 categories:
-  - Opskrifter
+  - vegetar
 date: 2016-06-26
 image: /images/food-placeholder.png
 recipe:
@@ -26,6 +26,7 @@ recipe:
     - Form til frikadeller med en spiseske og steg på en non-stick pande med lidt olie.
 redirect_from:
   - /2016/06/26/gulerodsfrikadeller-v2
+  - /opskrifter/2016/06/26/gulerodsfrikadeller-v2
 ---
 
 Dette er en opdateret udgave af min opskrift på [Gulerodsfrikadeller](/opskrifter/2015/05/24/gulerodsfrikadeller/)

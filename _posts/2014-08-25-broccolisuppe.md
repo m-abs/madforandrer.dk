@@ -1,7 +1,7 @@
 ---
 title: Broccolisuppe
 categories:
-  - Opskrifter
+  - suppe
 date: 2014-08-25
 image: /images/food-placeholder.png
 recipe:
@@ -29,6 +29,7 @@ recipe:
     - Derefter varmes butterbeans i suppen i 2 til 5 min ved lav varme.
 redirect_from:
   - /2014/08/25/broccolisuppe
+  - /opskrifter/2014/08/25/broccolisuppe
 ---
 
 Broccolisuppen er en lækker og nem vegetar suppe som passer til DDVs kostplan.

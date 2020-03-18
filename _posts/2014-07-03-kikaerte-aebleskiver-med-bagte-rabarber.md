@@ -1,7 +1,7 @@
 ---
 title: Kikærte-æbleskiver med bagte rabarber
 categories:
-  - Opskrifter
+  - vegetar
 date: 2014-07-03
 image: /images/uploads/2014/07/IMG_20140713_162426-cropped.jpg
 recipe:
@@ -49,6 +49,7 @@ recipe:
     - Kikærter fås på dåse og er klar til brug i denne opskrift, bare du hælder væden fra.
 redirect_from:
   - /2014/07/03/kikaerte-aebleskiver-med-bagte-rabarber
+  - /opskrifter/2014/07/03/kikaerte-aebleskiver-med-bagte-rabarber
 ---
 
 Dette er en lækker lille opskrift, som du kan have med til frokost.

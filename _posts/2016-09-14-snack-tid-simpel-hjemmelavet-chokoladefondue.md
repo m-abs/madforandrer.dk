@@ -1,7 +1,7 @@
 ---
 title: Snack tid simpel hjemmelavet chokoladefondue
 categories:
-  - Opskrifter
+  - snacks
 date: 2016-09-14
 image: /images/uploads/2016/09/Chokoladefondue.jpg
 recipe:
@@ -27,6 +27,7 @@ recipe:
     Meget simpelt og meget lækkert, ville ønske at jeg havde fundet på det noget før.
 redirect_from:
   - /2016/09/14/snack-tid-simpel-hjemmelavet-chokoladefondue
+  - /opskrifter/2016/09/14/snack-tid-simpel-hjemmelavet-chokoladefondue
 ---
 
 I går var det tid til en lille snack, engang imellem må man godt.

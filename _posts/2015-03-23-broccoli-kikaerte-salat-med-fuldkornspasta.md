@@ -1,7 +1,7 @@
 ---
 title: Broccoli-kikærte-salat med fuldkornspasta
 categories:
-  - Opskrifter
+  - vegetar
 date: 2015-03-23
 image: /images/food-placeholder.png
 recipe:
@@ -27,6 +27,7 @@ recipe:
     Retten kan spises kold eller varmet et par minutter i mikroovn.
 redirect_from:
   - /2015/05/23/broccoli-kikaerte-salat-med-fuldkornspasta
+  - /opskrifter/2015/03/23/broccoli-kikaerte-salat-med-fuldkornspasta
 ---
 
 Dette er en lækker vegetarisk frokost ret, som er både hurtig at lave og nem at have med på arbejde.
