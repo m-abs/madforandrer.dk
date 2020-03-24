@@ -5,7 +5,7 @@ categories:
 date: 2020-03-17 19:00:00
 image: /images/uploads/2020/03/2020-03-17-friskbagt-broed-1080x1009.png
 recipe:
-  servings: 12-13 boller
+  servings: ~10 boller
   prep: 15-20 minutter
   cook: 10-15 minutter ved 200°
   ingredients_markdown: |-
@@ -17,23 +17,23 @@ recipe:
     - 50g smør
     - salt
 
-    Det er bedst at bruge en røremaskine til at ælte dejen.
+    Det er bedst, at ælte dejen på maskine.
   directions_markdown: |-
     - Blødgør smør, det skal ikke smeltes.
     - Opløs gæren i vandet
     - Tilsæt salt, smør og 5 kornsblanding.
     - Rør lidt efter lidt mel i.
-    - Ælt dejen i cirka 7 minutter.
+    - Ælt dejen i ~7 minutter.
 
-    Del dejen i op klumper af cirka 100g og form dem til boller.
+    Del dejen i op stykker af ~100g og form dem til boller.
 
     **Hvis de skal fryses**
-    - Frys dem ned uden at lade dem hæve.
+    - Frys dem ned, uden at hæve dem først.
     - Bag dem direkte fra fryseren ved 200° i varmluftsovn i 12-15 minutter.
 
     **Hvis de skal bages med samme**
     - Hæves et lunt sted i 40 minutter.
-    - Bag dem i 10-12 minutter ved 200° varmluftsovn.
+    - Bag dem i 10-12 minutter ved 200° i varmluftsovn.
 redirect_from:
   - /opskrifter/2020/03/17/friskbagt-broed/
 ---
