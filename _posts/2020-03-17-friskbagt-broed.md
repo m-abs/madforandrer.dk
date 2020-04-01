@@ -10,6 +10,7 @@ recipe:
   cook: 10-15 minutter ved 200°
   ingredients_markdown: |-
     - 2 dl lunket vand
+    - 1 æg
     - 400g hvedemel
     - 100g ølandshvedemel
     - 2 dl 5 kornsblanding
@@ -21,7 +22,7 @@ recipe:
   directions_markdown: |-
     - Blødgør smør, det skal ikke smeltes.
     - Opløs gæren i vandet
-    - Tilsæt salt, smør og 5 kornsblanding.
+    - Tilsæt salt, smør, æg og 5 kornsblandingen.
     - Rør lidt efter lidt mel i.
     - Ælt dejen i ~7 minutter.
 

@@ -4,9 +4,7 @@
 	</div>
 {% endif %}
 <h1>
-	<a href="{{ include.post.url }}">
-		{{ include.post.title }}
-	</a>
+	<a href="{{ include.post.url }}">{{ include.post.title }}</a>
 </h1>
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
 	{{ include.post.date | date_to_string: "DK"  }}
