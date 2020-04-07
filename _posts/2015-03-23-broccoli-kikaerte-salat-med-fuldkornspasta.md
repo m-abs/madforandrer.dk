@@ -3,7 +3,7 @@ title: Broccoli-kikærte-salat med fuldkornspasta
 categories:
   - vegetar
 date: 2015-03-23
-image: /images/food-placeholder.png
+image: /images/food-placeholder.jpg
 recipe:
   servings:
   prep:

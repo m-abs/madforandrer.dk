@@ -1,8 +1,8 @@
 <aside class="sidebar {% if page.push_sidebar_down %}push{% endif %}">
 	<div class="author">
 		<p>
-			<a href="{{ site.baseurl }}/about/">
-				<img src="{{ site.baseurl }}{{ site.data.sidebar.author_image }}" alt="author" class="author" />
+			<a href="/about/">
+				<img src="{{ site.data.sidebar.author_image | image_scale: 200, 270 }}" alt="author" class="author" />
 			</a>
 		</p>
 		<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>
@@ -13,7 +13,7 @@
 		{% if site.data.sidebar.twitter && site.data.sidebar.twitter != "" %}<a target="_blank" rel="noreferrer" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{% endif %} 
 		{% if site.data.sidebar.pinterest && site.data.sidebar.pinterest != "" %}<a target="_blank" rel="noreferrer" href="https://pinterest.com/{{ site.data.sidebar.pinterest }}">{% include social-icon.html icon="Pinterest" %}</a>{% endif %} 
 		{% if site.data.sidebar.instagram && site.data.sidebar.instagram != "" %}<a target="_blank" rel="noreferrer" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %} 
-		<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+		<a target="_blank" href="/feed.xml">{% include social-icon.html icon="RSS" %}</a>
 	</div>
 
 	{% if site.newsletter_action && site.newsletter_action!=""%}<form action="{{ site.newsletter_action }}" method="post">

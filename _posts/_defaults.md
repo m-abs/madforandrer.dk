@@ -3,7 +3,7 @@ title:
 categories:
   - Opskrifter
 date:
-image: /images/food-placeholder.png
+image: /images/food-placeholder.jpg
 recipe:
   servings:
   prep:

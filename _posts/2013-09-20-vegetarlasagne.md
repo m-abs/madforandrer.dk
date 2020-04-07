@@ -3,7 +3,7 @@ title: Vegetarlasagne
 categories:
   - vegetar
 date: 2013-09-20
-image: /images/uploads/2013/09/Grønsagslasagne.png
+image: /images/uploads/2013/09/Grønsagslasagne.jpg
 recipe:
   servings: 1 person
   prep: 30 minutter

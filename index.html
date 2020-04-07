@@ -7,14 +7,14 @@ title: Forside
 			{% include post-heading.html post=post %}
 			{% if post.image %}
 				<div class="image">
-					<img src="{{ post.image }}" alt="{{ post.title }}" class="featured-image" />
+					<img src="{{ post.image | image_scale: 780, 780 }}" alt="{{ post.title }}" class="featured-image" />
 				</div>
 			{% endif %}
 
 			<div class="recipe-body">
 				{{ post.excerpt }}
 
-				<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Læs mere</a></p>
+				<p><a class="button" href="{{ post.url }}">Læs mere</a></p>
 			</div>
 		</article>
 	{% endfor %}
@@ -22,13 +22,13 @@ title: Forside
 	{% if paginator.total_pages > 1 %}
 		<div class="pagination">
 			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+				<a href="{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
 			{% endif %}
 
 			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
 
 			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Se flere &rarr;</a>
+				<a href="{{ paginator.next_page_path }}" class="next btn">Se flere &rarr;</a>
 			{% endif %}
 		</div>
 	{% endif %}

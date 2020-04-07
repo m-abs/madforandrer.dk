@@ -3,7 +3,7 @@ title: Gulerodskonfekt
 categories:
   - snacks
 date: 2014-10-05
-image: /images/food-placeholder.png
+image: /images/food-placeholder.jpg
 recipe:
   servings: 16 små snacks, cirka ~20 kcal/stk
   prep:

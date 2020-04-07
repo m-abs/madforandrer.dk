@@ -3,7 +3,7 @@ title: Lakselasagne uden pasta
 categories:
   - fisk
 date: 2015-08-11
-image: /images/food-placeholder.png
+image: /images/food-placeholder.jpg
 recipe:
   servings: 4 portioner af ca. 480 kcal hver.
   prep:

@@ -3,7 +3,7 @@ title: Fyldt hokkaido
 categories:
   - I ovnen
 date: 2016-09-11
-image: /images/uploads/2016/09/IMG_20160906_123128-cropped.png
+image: /images/uploads/2016/09/IMG_20160906_123128-cropped.jpg
 recipe:
   servings: 1 portion
   prep:

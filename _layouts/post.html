@@ -5,7 +5,7 @@ layout: default
 	{% include post-heading.html post=page post_page=true %}
 	{% if page.image %}
 	<div class="image">
-		<img src="{{ page.image }}" alt="{{ page.title }}"  class="featured-image" />
+		<img src="{{ page.image | image_scale: 780, 780 }}" alt="{{ page.title }}"  class="featured-image" />
 	</div>
 	{% endif %}
 
@@ -27,17 +27,23 @@ layout: default
 	</ul>
 	{% endif %}
 
+	{% if page.recipe.ingredients_markdown or page.recipe.directions_markdown %}
 	<div class="recipe-contents">
+		{% if page.recipe.ingredients_markdown %}
 		<div class="ingredients">
 			<h2>Ingredienser</h2>
 			{{ page.recipe.ingredients_markdown | markdownify }}
 		</div>
+		{% endif %}
 
+		{% if page.recipe.directions_markdown %}
 		<div class="directions">
 			<h2>Fremgangsmåde</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
+		{% endif %}
 	</div>
+	{% endif %}
 
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
@@ -51,7 +57,7 @@ layout: default
 	<div class="cta">
 		<h2>Flere lækre opskrifter</h2>
 		<p>Dette er blot en af mange opskrifter på Mad forandrer</p>
-		<div class="button"><a href="{{ site.baseurl }}/opskrifter">Se flere opskrifter</a></div>
+		<div class="button"><a href="/opskrifter">Se flere opskrifter</a></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}
 		<div id="disqus_thread"></div>

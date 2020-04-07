@@ -3,7 +3,7 @@ title: Start på Low Carp uge &#8211; Chili con pollo med revet blomkål.
 categories:
   - LCHF
 date: 2014-01-06
-image: /images/food-placeholder.png
+image: /images/food-placeholder.jpg
 recipe:
   servings:
   prep:
