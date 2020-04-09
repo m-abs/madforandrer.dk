@@ -3,7 +3,7 @@ date: 2013-02-27
 title: Havre-æble-muffins
 categories:
   - morgenmad
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings: 6 muffins
   prep: 10 minutter

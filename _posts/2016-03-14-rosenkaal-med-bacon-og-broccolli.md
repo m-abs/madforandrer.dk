@@ -3,7 +3,7 @@ title: Rosenkål med bacon og broccolli
 categories:
   - rosenkål
 date: 2016-03-14
-image: /images/uploads/2016/03/Rosenkål-med-broccoli-og-bacon.jpg
+image: /images/uploads/2016/03/Rosenkål-med-broccoli-og-bacon.webp
 recipe:
   servings: 2 portioner
   prep:

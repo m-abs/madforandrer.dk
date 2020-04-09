@@ -3,7 +3,7 @@ title: Lad ikke udsving i vægten tage motivationen fra dig
 date: 2016-01-22
 categories:
   - Artikler
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 redirect_from:
   - /2016/01/22/lad-ikke-udsving-i-vaegten-tage-motivationen-fra-dig
 ---

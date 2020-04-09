@@ -3,7 +3,7 @@ title: Broccoli pizzabund
 categories:
   - pizza
 date: 2014-10-27
-image: /images/uploads/2014/11/Broccoli-pizzabund-med-fyld1.jpg
+image: /images/uploads/2014/11/Broccoli-pizzabund-med-fyld1.webp
 recipe:
   servings: 2 personer
   prep:
@@ -27,7 +27,7 @@ recipe:
 
     Blend ingredienserne. Fordel massen ud i en form og bag ved 200 grader celsius, til den er gyldenbrun i kanterne.
 
-    ![](/images/uploads/2014/11/Broccoli-pizzabund.jpg?width=500&height=500)
+    ![](/images/uploads/2014/11/Broccoli-pizzabund.webp?width=500&height=500)
 
     *Skal se ca. sådan her ud, inden du kommer fyld oven på.*
 

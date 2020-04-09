@@ -9,7 +9,7 @@ newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /images/logo_480x240.jpg
+logo: /images/logo.jpg
 description: Vejen til varigt vægttab går gennem lækker mad
 author:
   name: Morten Sjøgren
@@ -59,7 +59,7 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
-      image: /images/logo_480x240.jpg
+      image: /images/logo.jpg
 
 plugins:
   - jekyll-sitemap

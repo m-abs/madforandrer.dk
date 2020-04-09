@@ -3,7 +3,7 @@ title: Hjemmelavede rodfrugtchips
 categories:
   - snacks
 date: 2013-09-28
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings:
   prep:

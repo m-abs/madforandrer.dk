@@ -3,7 +3,7 @@ title: Grønsagssuppe med kødboller
 categories:
   - Suppe
 date: 2014-05-20
-image: /images/uploads/2014/01/IMG_20140210_211236.jpg
+image: /images/uploads/2014/01/IMG_20140210_211236.webp
 recipe:
   servings:
   prep:

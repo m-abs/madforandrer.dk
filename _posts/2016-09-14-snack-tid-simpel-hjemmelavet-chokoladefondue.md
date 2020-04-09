@@ -3,7 +3,7 @@ title: Snack tid simpel hjemmelavet chokoladefondue
 categories:
   - snacks
 date: 2016-09-14
-image: /images/uploads/2016/09/Chokoladefondue.jpg
+image: /images/uploads/2016/09/Chokoladefondue.webp
 recipe:
   servings:
   prep:

@@ -3,7 +3,7 @@ title: Okse-rødvinsgryde med kantareller
 categories:
   - gryderet
 date: 2015-08-10
-image: /images/uploads/2015/08/Oksetern-i-rødvins-sovs.jpg
+image: /images/uploads/2015/08/Oksetern-i-rødvins-sovs.webp
 recipe:
   servings: 4 portioner af ca. 540 kcal hver.
   prep:

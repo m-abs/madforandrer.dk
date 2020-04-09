@@ -3,7 +3,7 @@ title: Kikærte-tomat fyldt spaghetti-squash
 categories:
   - vegetar
 date: 2016-10-29
-image: /images/uploads/2016/10/Squash-speghetti-med-tomat-kikærte-fyld.jpg
+image: /images/uploads/2016/10/Squash-speghetti-med-tomat-kikærte-fyld.webp
 recipe:
   servings: 2½ personer
   prep:

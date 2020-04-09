@@ -3,7 +3,7 @@ title: Falafler med ærter og mynte
 categories:
   - vegatar
 date: 2014-10-25
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings: 4 portioner (ca. 20 falafler), cirka 235 kcal i en portion.
   prep:

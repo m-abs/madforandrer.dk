@@ -3,7 +3,7 @@ title: Hjemmelavet snackbar &#8211; første forsøg
 categories:
   - snacks
 date: 2016-04-10
-image: /images/uploads/2016/04/Energibar-IMG_20160410_193052.jpg
+image: /images/uploads/2016/04/Energibar-IMG_20160410_193052.webp
 recipe:
   servings:
   prep:

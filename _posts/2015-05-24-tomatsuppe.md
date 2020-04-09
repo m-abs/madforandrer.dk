@@ -3,7 +3,7 @@ title: Tomatsuppe
 categories:
   - suppe
 date: 2015-05-24
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings: 3-4 portioner
   prep:

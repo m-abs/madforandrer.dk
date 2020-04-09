@@ -3,7 +3,7 @@ title: Ristet andelever med rodfrugter
 categories:
   - and
 date: 2015-05-26
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings:
   prep:

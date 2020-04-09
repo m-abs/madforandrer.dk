@@ -3,7 +3,7 @@ title: Sushi-ris med blomkål
 categories:
   - sushi
 date: 2013-09-21
-image: /images/uploads/2013/09/IMG_20140626_sushi.jpg
+image: /images/uploads/2013/09/IMG_20140626_sushi.webp
 recipe:
   servings:
   prep:

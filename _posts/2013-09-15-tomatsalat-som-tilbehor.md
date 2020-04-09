@@ -3,7 +3,7 @@ title: Tomatsalat som tilbehør
 categories:
   - salat
 date: 2013-09-14
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings: 1 portion
   cook: 5 minutter

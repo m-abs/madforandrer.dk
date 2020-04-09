@@ -3,7 +3,7 @@ title: Broccolisuppe
 categories:
   - suppe
 date: 2014-08-25
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings: 2 portioner
   prep:

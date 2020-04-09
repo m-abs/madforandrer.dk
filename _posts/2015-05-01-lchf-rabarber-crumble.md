@@ -3,7 +3,7 @@ title: LCHF &#8211; Rabarber crumble
 categories:
   - LCHF
 date: 2015-05-01
-image: /images/food-placeholder.jpg
+image: /images/food-placeholder.webp
 recipe:
   servings: 4 portioner
   prep:
