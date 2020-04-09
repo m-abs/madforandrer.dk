@@ -3,6 +3,20 @@
   margin: 0 auto;
 }
 
+#skip-to-main {
+  display: block;
+  z-index: 100;
+  position: absolute !important;
+  width: auto;
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+
+  overflow: hidden;
+  height: 1px;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
 .main-content {
   @media #{$desktop} {
     display: flex;

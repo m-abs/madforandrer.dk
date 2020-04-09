@@ -24,9 +24,9 @@
   }
 
   .social-icons {
-    display: flex;
-    justify-content: center;
+    text-align: center;
     margin: 10px 0 0 0;
+
     a {
       padding: 3px;
       text-decoration: none;
@@ -34,12 +34,15 @@
       &:hover svg {
         fill: #000;
       }
-    }
 
-    svg {
       width: 25px;
       height: 25px;
-      fill: $light-grey;
+
+      svg {
+        width: 25px;
+        height: 25px;
+        fill: $light-grey;
+      }
     }
   }
 }

@@ -25,6 +25,7 @@
 		{% endif %}
 	</head>
 	<body>
+		<a href="#main-content" id="skip-to-main" class="element-invisible element-focusable">Gå til hovedindhold</a>
 		{% include navigation.html %}
 		<header>
 			<a href="{{site.baseurl }}/">
@@ -33,7 +34,7 @@
 		</header>
 
 		<div class="container main-content">
-			<section class="content">{{ content }}</section>
+			<section class="content" id="main-content">{{ content }}</section>
 			{% include sidebar.html %}
 		</div>
 		<footer>
