@@ -28,23 +28,75 @@ layout: compress
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
 		{% endif %}
 
-		<script src="/js/webp-hero/polyfills.js"></script>
-		<script src="/js/webp-hero/webp-hero.bundle.js"></script>
 		<script>
+			function supportsWebp() {
+				if (!window.createImageBitmap) {
+					return Promise.resolve(false);
+				}
+
+				const webpData = 'data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=';
+
+				return fetch(webpData)
+					.then(function(r) {
+						return r.blob();
+					})
+					.then(createImageBitmap)
+					.then(function() {
+						return true;
+					})
+					.catch(function() {
+						return false;
+					});
+			}
+
+			function injectScript(href) {
+				return new Promise(function(resolve, reject) {
+					const script = document.createElement('script');
+					script.addEventListener('error', reject);
+					script.addEventListener('load', function() {
+						resolve();
+					});
+
+					script.async = true;
+					script.href = href;
+					document.head.appendChild(script);
+				});
+			}
+
 			document.addEventListener('DOMContentLoaded', function() {
-				const webpMachine = new webpHero.WebpMachine();
-				webpMachine.polyfillDocument();
+				supportsWebp()
+					.then(function(isSupported) {
+						if (isSupported) {
+							return;
+						}
+
+						return injectScript('/js/webp-hero/polyfills.js')
+							.then(function() {
+								return injectScript('/js/webp-hero/webp-hero.bundle.js');
+							})
+							.then(function() {
+								const webpMachine = new webpHero.WebpMachine();
+								webpMachine.polyfillDocument();
+							});
+					})
+					.catch(function(err) {
+						console.error('webp-hero not loaed', err);
+					});
 
 				const canonical = document.head.querySelector('link[rel="canonical"]');
-				if (canonical && canonical.href) {
-					const url = new URL(canonical.href);
-					if (url.hostname !== location.hostname) {
-						if (location.hostname !== 'localhost') {
-							location.href = canonical.href;
-						} else {
-							console.warn('production would redirect to:', canonical.href);
-						}
+				if (!canonical || !canonical.href) {
+					return;
+				}
+
+				const url = new URL(canonical.href);
+				if (url.hostname !== location.hostname) {
+					if (location.hostname !== 'localhost') {
+						location.href = canonical.href;
+					} else {
+						console.warn('production would redirect to:', canonical.href);
 					}
+
+					return;
 				}
 			});
 		</script>
