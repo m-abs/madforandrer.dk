@@ -5,7 +5,7 @@ nav {
   justify-content: center;
   $background-color: rgba(255, 255, 255, 0.9);
   background-color: $background-color;
-  
+
   z-index: 999;
 
   a {
@@ -29,7 +29,6 @@ nav {
       border-top-right-radius: 5px;
       border-bottom-right-radius: 5px;
     }
-
 
     &.active {
       background-color: $link-color;

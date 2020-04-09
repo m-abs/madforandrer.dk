@@ -29,7 +29,6 @@
       list-style: none;
       padding: 0;
       margin: 0;
-
     }
   }
 
@@ -44,7 +43,7 @@
         list-style-type: none;
         &:before {
           content: '\00bb';
-          color: #ff4e4e;
+          color: #dc143c;
           padding-right: 0.5em;
         }
       }
@@ -61,7 +60,7 @@
         &:before {
           content: counter(step-counter);
           margin-right: 0px;
-          background-color: #ff4e4e;
+          background-color: #dc143c;
           color: white;
           /* padding: 1px 7px; */
           font-size: 0.7em;
@@ -126,7 +125,7 @@
     }
 
     &.email {
-      background-color: #ff9d09;
+      background-color: #e76e3c;
     }
 
     &.facebook {
