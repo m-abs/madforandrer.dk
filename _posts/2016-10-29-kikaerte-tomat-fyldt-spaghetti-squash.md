@@ -32,4 +32,4 @@ redirect_from:
   - /opskrifter/2016/10/29/kikaerte-tomat-fyldt-spaghetti-squash
 ---
 
-Opskrift inspireret af <a href="https://www.buzzfeed.com/robertbroadfoot/chicken-and-tomato-spaghetti-squash" target="_blank">link</a>.
+Opskrift inspireret af <a href="https://www.buzzfeed.com/robertbroadfoot/chicken-and-tomato-spaghetti-squash" target="_blank" rel="noopener">link</a>.
