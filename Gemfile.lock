@@ -76,7 +76,7 @@ PLATFORMS
 
 DEPENDENCIES
   bigdecimal
-  jekyll (>= 4.0.0)
+  jekyll (>= 4.1.1)
   jekyll-browsersync
   jekyll-feed (= 0.12.1)
   jekyll-paginate (= 1.1.0)
