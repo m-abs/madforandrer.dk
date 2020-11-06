@@ -1,5 +1,5 @@
 ---
-title: Kylling med blomkål/ærtemos
+title: Kylling med blomkål og ærtemos
 categories:
   - kylling
 date: 2017-06-08

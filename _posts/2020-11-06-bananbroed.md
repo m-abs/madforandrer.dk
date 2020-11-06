@@ -2,7 +2,7 @@
 title: Lækkert bananbrød
 categories:
   - brød
-date: 2020-11-06 19:00:00
+date: 2020-11-06
 image: /images/uploads/2020/11/2020-11-06 bananbroed.webp
 recipe:
   servings: 2 brød
@@ -29,6 +29,7 @@ recipe:
     - Del dejen i to lige store dele og læg dem i brødformene. 
     - Lad det hæve et lunt sted i en times tid.
     - Bag det ved 200° i 10 minutter, tag brødet ud af formene og lad det få ~5 minutter mere.
+
 ---
 
 Velsmagende hjemmebagt bananbrød efter egen opskrift.
