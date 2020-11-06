@@ -1,7 +1,7 @@
 ---
 title: Vegetarisk chili
 categories:
-  - vegatar
+  - Vegetar
 date: 2016-06-04
 image: /images/uploads/2016/06/Vegetarisk-chili.webp
 recipe:

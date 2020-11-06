@@ -1,7 +1,7 @@
 ---
 title: Gulerodskonfekt
 categories:
-  - snacks
+  - Snacks
 date: 2014-10-05
 image: /images/food-placeholder.webp
 recipe:

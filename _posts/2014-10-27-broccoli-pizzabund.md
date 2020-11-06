@@ -1,7 +1,7 @@
 ---
 title: Broccoli pizzabund
 categories:
-  - pizza
+  - Pizza
 date: 2014-10-27
 image: /images/uploads/2014/11/Broccoli-pizzabund-med-fyld1.webp
 recipe:

@@ -1,7 +1,7 @@
 ---
 title: Vegetarlasagne
 categories:
-  - vegetar
+  - Vegetar
 date: 2013-09-20
 image: /images/uploads/2013/09/Grønsagslasagne.webp
 recipe:

@@ -1,7 +1,7 @@
 ---
 title: Tomatsuppe
 categories:
-  - suppe
+  - Suppe
 date: 2015-05-24
 image: /images/food-placeholder.webp
 recipe:

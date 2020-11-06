@@ -1,7 +1,7 @@
 ---
 title: Rødspætteruller med blomkål, broccoli og squashsovs
 categories:
-  - fisk
+  - Fisk
 date: 2015-07-23
 image: /images/uploads/2015/07/Rødspætte-med-squashsovs.webp
 recipe:

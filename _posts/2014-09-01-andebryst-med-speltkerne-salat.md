@@ -1,7 +1,7 @@
 ---
 title: Andebryst i appelsin, ingefær og lakrids med speltkerne salat
 categories:
-  - and
+  - And
 date: 2014-09-01
 image: /images/food-placeholder.webp
 recipe:

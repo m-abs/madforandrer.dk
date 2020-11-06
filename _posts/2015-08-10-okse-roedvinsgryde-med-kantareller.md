@@ -1,7 +1,7 @@
 ---
 title: Okse-rødvinsgryde med kantareller
 categories:
-  - gryderet
+  - Aftensmad
 date: 2015-08-10
 image: /images/uploads/2015/08/Oksetern-i-rødvins-sovs.webp
 recipe:

@@ -1,7 +1,7 @@
 ---
 title: Kylling med blomkål og ærtemos
 categories:
-  - kylling
+  - Kylling
 date: 2017-06-08
 image: /images/uploads/2017/06/Blomkål-ærte-mos-med-kylling.webp
 recipe:

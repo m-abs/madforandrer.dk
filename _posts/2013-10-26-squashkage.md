@@ -1,7 +1,7 @@
 ---
 title: Squashkage
 categories:
-  - dessert
+  - Dessert
 date: 2013-10-26
 recipe:
   ingredients_markdown: |-

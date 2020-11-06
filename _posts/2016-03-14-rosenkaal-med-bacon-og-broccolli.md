@@ -1,7 +1,7 @@
 ---
 title: Rosenkål med bacon og broccolli
 categories:
-  - rosenkål
+  - Aftensmad
 date: 2016-03-14
 image: /images/uploads/2016/03/Rosenkål-med-broccoli-og-bacon.webp
 recipe:

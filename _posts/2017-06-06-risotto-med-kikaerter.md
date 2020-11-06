@@ -2,7 +2,7 @@
 date: 2017-06-06
 title: Risotto med kikærter
 categories:
-  - vegetar
+  - Vegetar
 image: /images/uploads/2017/06/IMG_20170606_1852302.webp
 recipe:
   servings: 2 personer

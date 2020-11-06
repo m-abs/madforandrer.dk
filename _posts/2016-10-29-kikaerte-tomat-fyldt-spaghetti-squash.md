@@ -1,7 +1,7 @@
 ---
 title: Kikærte-tomat fyldt spaghetti-squash
 categories:
-  - vegetar
+  - Vegetar
 date: 2016-10-29
 image: /images/uploads/2016/10/Squash-speghetti-med-tomat-kikærte-fyld.webp
 recipe:

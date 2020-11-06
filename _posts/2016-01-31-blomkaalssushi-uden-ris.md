@@ -1,7 +1,7 @@
 ---
 title: Blomkålssushi, uden ris
 categories:
-  - sushi
+  - Sushi
 date: 2016-01-31
 image: /images/uploads/2016/01/Blomkålssushi-2016-01-27.webp
 recipe:

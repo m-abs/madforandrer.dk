@@ -1,7 +1,7 @@
 ---
 title: Broccolisuppe
 categories:
-  - suppe
+  - Suppe
 date: 2014-08-25
 image: /images/food-placeholder.webp
 recipe:

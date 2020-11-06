@@ -1,7 +1,7 @@
 ---
 title: Lakselasagne uden pasta
 categories:
-  - fisk
+  - Fisk
 date: 2015-08-11
 image: /images/food-placeholder.webp
 recipe:

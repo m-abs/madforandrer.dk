@@ -1,7 +1,7 @@
 ---
 title: Hjemmelavet (sushi) makiruller &#8211; 312 kcal/rulle
 categories:
-  - sushi
+  - Sushi
 date: 2014-12-27
 image: /images/uploads/2014/12/Sushi.webp
 recipe:

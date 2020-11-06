@@ -1,7 +1,7 @@
 ---
 title: Champignonsuppe med bacon
 categories:
-  - suppe
+  - Suppe
 date: 2014-11-13
 image: /images/food-placeholder.webp
 recipe:

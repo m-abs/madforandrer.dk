@@ -1,7 +1,7 @@
 ---
 title: Gulerodsfrikadeller
 categories:
-  - vegatar
+  - Vegetar
 date: 2015-05-24
 image: /images/food-placeholder.webp
 recipe:

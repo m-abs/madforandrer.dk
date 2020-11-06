@@ -1,7 +1,7 @@
 ---
 title: Tomatsalat som tilbehør
 categories:
-  - salat
+  - Salat
 date: 2013-09-14
 image: /images/food-placeholder.webp
 recipe:

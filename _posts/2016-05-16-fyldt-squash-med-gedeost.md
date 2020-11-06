@@ -1,7 +1,7 @@
 ---
 title: Fyldt squash med gedeost
 categories:
-  - vegetar
+  - Vegetar
 date: 2016-05-16
 image: /images/uploads/2016/05/Fyldte-squash-med-gedeost.webp
 recipe:

@@ -1,7 +1,7 @@
 ---
 title: Falafler med ærter og mynte
 categories:
-  - vegatar
+  - Vegetar
 date: 2014-10-25
 image: /images/food-placeholder.webp
 recipe:

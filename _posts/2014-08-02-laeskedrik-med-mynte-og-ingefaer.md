@@ -1,7 +1,7 @@
 ---
 title: Læskedrik med mynte og ingefær
 categories:
-  - drikke
+  - Drikke
 date: 2014-08-02
 image: /images/food-placeholder.webp
 recipe:
