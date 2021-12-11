@@ -22,10 +22,10 @@ title: Forside
 	{% if paginator.total_pages > 1 %}
 		<div class="pagination">
 			{% if paginator.previous_page %}
-				<a href="{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+				<a href="{{ paginator.previous_page_path }}" class="previous btn">&larr; Se nyere</a>
 			{% endif %}
 
-			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+			<span class="page_number ">{{ paginator.page }} af {{ paginator.total_pages }}</span>
 
 			{% if paginator.next_page %}
 				<a href="{{ paginator.next_page_path }}" class="next btn">Se flere &rarr;</a>
