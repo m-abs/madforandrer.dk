@@ -1,3 +1,5 @@
+@use "variables";
+
 html,
 body {
   padding: 0;
@@ -25,7 +27,7 @@ h2 {
 }
 
 time {
-  color: $light-grey;
+  color: variables.$light-grey;
 }
 
 header {
@@ -42,7 +44,7 @@ ol li + li {
 }
 
 footer {
-  color: $light-grey;
+  color: variables.$light-grey;
   text-align: center;
   padding: 20px 0;
   font-size: 0.8em;

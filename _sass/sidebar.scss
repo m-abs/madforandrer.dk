@@ -1,10 +1,12 @@
+@use "variables";
+
 .sidebar {
   width: 250px;
   padding: 70px 0 0 0;
   margin: 0 auto;
   flex-shrink: 0;
 
-  @media #{$desktop} {
+  @media #{variables.$desktop} {
     margin: 0;
     padding: 0 0 0 70px;
   }
@@ -41,14 +43,14 @@
       svg {
         width: 25px;
         height: 25px;
-        fill: $light-grey;
+        fill: variables.$light-grey;
       }
     }
   }
 }
 
 .sidebar.push {
-  @media #{$desktop} {
+  @media #{variables.$desktop} {
     padding-top: 72px;
   }
 }

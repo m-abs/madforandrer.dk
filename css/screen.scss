@@ -1,13 +1,13 @@
 ---
 ---
 
-@import 'variables';
-@import 'elements';
-@import 'layout';
-@import 'blog';
-@import 'forms';
-@import 'navigation';
-@import 'sidebar';
-@import 'recipes';
-// @import "cloudcannon";
-// @import "pinterest";
+@use 'variables' as *;
+@use 'elements';
+@use 'layout';
+@use 'blog';
+@use 'forms';
+@use 'navigation';
+@use 'sidebar';
+@use 'recipes';
+// @use 'cloudcannon';
+// @use 'pinterest';

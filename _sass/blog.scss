@@ -1,3 +1,5 @@
+@use "variables";
+
 .post {
   h1 a {
     color: #000;
@@ -33,7 +35,7 @@
   }
 
   .recipe-contents {
-    @media #{$desktop} {
+    @media #{variables.$desktop} {
       display: flex;
     }
 
@@ -78,7 +80,7 @@
     }
 
     .directions {
-      @media #{$desktop} {
+      @media #{variables.$desktop} {
         flex: 1;
       }
     }
